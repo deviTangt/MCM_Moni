@@ -1,5 +1,4 @@
 % 读取数据
-clear; clc;
 FiveStates_Info = ["California", "Arizona", "Colorado", "New Mexico", "Wyoming"];
 
 % 5个州在2021年每个月于农业用水，工业用水，居民用水，水力生电4个领域各自消耗的用水量（MG）
